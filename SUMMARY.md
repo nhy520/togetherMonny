@@ -1,4 +1,4 @@
-# Summary
+# 一起经营平台设想
 
-* [Introduction](README.md)
+* [平台介绍](README.md)
 
